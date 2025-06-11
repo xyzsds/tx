@@ -119,3 +119,11 @@ weather-analytics-events.apple.com
 samsung-com.112.207.net
 analytics-api.samsunghealthcn.com
 notes-analytics-events.apple.com
+api.luckyorange.com
+realtime.luckyorange.com
+cdn.luckyorange.com
+w1.luckyorange.com
+upload.luckyorange.net
+cs.luckyorange.net
+settings.luckyorange.net
+browser.sentry-cdn.com
