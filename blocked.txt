@@ -1,3 +1,17 @@
+config.unityads.unitychina.cn
+ cu-cn-north00001.gala.convection.cn
+ cu-cn-north00002.gala.convection.cn
+ discuz.gtimg.cn
+ duologinsupersdk.ewan.cn
+ hao.360.cn
+ imdns.hpplay.cn
+ logu.hpplay.cn
+ m.bchchk.cn
+ mathtype.cn
+ picanalysis.vivo.com.cn
+ rp.hpplay.cn
+ safeurl.maxthon.cn
+ ssdkauth.hpplay.cn
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 analytics.s3.amazonaws.com
